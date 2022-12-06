@@ -14,7 +14,7 @@ node app.js
 
 ## FRONT
 ```
-cd react-ssr-app:
+cd react-ssr-app/
 npm i
 npm run ssr:start
 ```
